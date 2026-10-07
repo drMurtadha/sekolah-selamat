@@ -2,7 +2,13 @@
 # Sekolah selamat, tempat anak-anak bertumbuh
 ## Mendengar dengan hati. Melindungi bersama.
 
-Pembentang: **Izzah Sofiyah binti Mohd Murtadha**
+Disediakan oleh
+
+**Izzah Sofiyah binti Mohd Murtadha**
+
+Sarjana Muda Sains Pentadbiran dan Pembangunan Tanah dengan Kepujian, Universiti Teknologi Malaysia
+
+Ahli Dewan Muda Johor
 
 ![Sahabat berjalan bersama di sekolah; ilustrasi fotografi AI](assets/sahabat-sekolah.png)
 

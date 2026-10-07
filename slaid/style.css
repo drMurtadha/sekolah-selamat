@@ -7,3 +7,14 @@
 .slide.with-photo.ribbon.active,.overview .slide.with-photo.ribbon{display:grid;grid-template-columns:minmax(0,1fr) 29%;gap:34px}.slide.with-photo.ribbon .slide-photo{height:100%;max-height:440px;aspect-ratio:auto;border-radius:55px 10px 10px 10px}.slide.with-photo.ribbon .slide-photo img{object-fit:cover;object-position:50% 50%}.slide.with-photo.ribbon h1{font-size:36px}.slide.with-photo.ribbon h2{font-size:22px}.slide.with-photo.ribbon ul{gap:20px}.slide.with-photo.ribbon li{font-size:20px}.slide.with-photo.ribbon blockquote{font-size:21px}.slide.with-photo.process li{padding-left:47px}.slide.with-photo.process li:before{font-size:17px;width:30px;height:30px}.slide.with-photo:not(.cover):not(.closing) .slide-photo{box-shadow:0 9px 22px #234c4912}@media(max-width:800px){.slide.with-photo.ribbon.active,.overview .slide.with-photo.ribbon{display:flex}.slide.with-photo.ribbon .slide-photo{height:auto;max-height:none;aspect-ratio:3/2}.slide.with-photo.ribbon .slide-photo img{object-fit:contain}.slide.with-photo.ribbon h1{font-size:32px}}@media print{.slide.with-photo.ribbon,.js .slide.with-photo.ribbon.active{grid-template-columns:minmax(0,1fr) 29%}.slide.with-photo.ribbon h1{font-size:28pt}.slide.with-photo.ribbon li{font-size:15pt}}
 
 .slide h2{color:#596c5b}.slide footer{color:#53665c}.slide.closing footer{color:#c6d6cf}
+
+/* Keep the table and its footer in document flow at every viewport height. */
+.js #slaid-10.active{height:auto;min-height:calc(100dvh - 170px);justify-content:center;padding-bottom:24px}
+#slaid-10 .slide-content{margin:0}
+#slaid-10 .table-wrap{margin-bottom:0}
+#slaid-10 table{font-size:clamp(16px,1.5vw,21px);line-height:1.4}
+#slaid-10 th,#slaid-10 td{padding:12px 14px}
+#slaid-10 footer{position:static;margin-top:24px;flex-shrink:0;gap:20px}
+.slide.cover .presenter-credit{font-size:17px;line-height:1.5}
+@media(max-width:800px){.slide.cover .presenter-credit{font-size:16px}#slaid-10 table{min-width:560px;font-size:16px}}
+@media print{.js #slaid-10.active,#slaid-10{min-height:0!important;height:100vh!important}#slaid-10 table{font-size:14pt}.slide.cover .presenter-credit{font-size:13pt}}
