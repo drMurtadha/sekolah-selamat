@@ -17,3 +17,5 @@ Tarikh: 8 Oktober 2026.
 Semakan tambahan: tiga carta berjaya dimuatkan, penapis Teknologi memaparkan enam cadangan, gambar dan 17 slaid dikekalkan. CSS mod gelap dan cetak disediakan. Semakan ini bukan audit WCAG menyeluruh dan bukan pengesahan ketepatan fakta sumber.
 
 Kandungan sumber menyebut lima cadangan teknologi dalam ringkasan tetapi mengandungi T1 hingga T6. Teks itu dikekalkan seperti arahan. Status siasatan dan perundangan tidak disemak semula dalam tugas penukaran laman ini.
+
+Kemas kini atribusi atas arahan pengguna: penyedia laporan ditukar kepada Izzah Sofiyah binti Mohd Murtadha, Sarjana Muda Sains Pentadbiran dan Pembangunan Tanah dengan Kepujian, Universiti Teknologi Malaysia.

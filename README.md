@@ -2,7 +2,9 @@
 
 Laman laporan akademik dan pembentangan dalam Bahasa Melayu.
 
-Penulis laporan: **Prof. Madya Dr. Mohd Murtadha bin Mohamad**.
+Disediakan oleh: **Izzah Sofiyah binti Mohd Murtadha**.
+
+**Sarjana Muda Sains Pentadbiran dan Pembangunan Tanah dengan Kepujian, Universiti Teknologi Malaysia**.
 Pembentang slaid: **Izzah Sofiyah binti Mohd Murtadha**.
 
 ## Laman dan pembentangan
